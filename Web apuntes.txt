@@ -1,0 +1,44 @@
+Todo HTML va dentro de una Etiqueta = <>
+Ej: <etiqueta></etiqueta>
+
+Una pagina web debe tener una cabecera y un cuerpo. 
+
+############ ETIQUETAS PARA TEXTOS ###################
+
+<h1>""</h1>= define titulo
+<h2>""</h2>= define subtitulo = por lo general hace distincion del formato el uno con el otro.
+<p>""</p>= define parrafo
+<br/> = hace un salto de linea, como si usaramos solo la tecla "Enter"
+<hr/> = Salto de linea, y deja un separador.
+<strong>""</strong> = Pone un texto en negrita.
+<em>""</em> = Pone el texto en cursiva. (<i>""</i>)
+<span>""</span> = con CSS le podemos cambiar el estilo. (maquetación)
+<blockquote>               = permite diferenciar un texto
+	Texto= citado
+</bockquote> 
+
+############ LISTAS EN HTML #####################
+Crea una lista en orden numerico.
+<ol> 
+    <li>Manzana</li> #1
+    <li>Naranja</li> #2
+    <li>Banana</li>  #3
+    <li>Sandia</li>  #4
+</ol>
+<ul>""</ul> = Lista simple.
+
+############ IMAGENES EN HTML ##################
+Se debe indicar la ubicacion de la imagen.
+
+<img src="C:\Users\Vladimir\Pictures\Cafe.jpg" alt="Taza Cafe" title="Caffee alegre" width = "400px"/> <!-- WIDTH indicara el temaño por px la iamgen.-->
+
+############ TABLAS EN HTML ###################
+
+<table border="10"> = el comando border indica el grosor de la tabla, sin ese comando no habrian marcos.
+
+#TODOS LOS SIGUIENTES APUNTES ESTAN EN EL ARCHIVO HTML DEL CURSO.
+
+
+
+
+
